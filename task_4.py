@@ -2,7 +2,7 @@ import logging
 from datetime import datetime
 import os
 
-LOG_FILE = "calculator.log"
+LOG_FILE = "resource/calculator.log"
 
 logging.basicConfig(
     filename=LOG_FILE,
